@@ -1,6 +1,6 @@
 Hello! 
 
-I am Fernando, a junior full stack developer beginning his carrer in the world of web design and database systems.
+I am Fernando, a junior full stack developer beginning his career in the world of web design and database systems.
 
 I manage tools such as HTML, CSS, Sass, Javascript, React, Angular, PHP, NodeJS and MongoDB.
 
